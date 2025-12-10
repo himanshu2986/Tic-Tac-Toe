@@ -39,3 +39,9 @@ This project is a classic two-player Tic-Tac-Toe game developed using HTML, CSS,
 ---
 
 ## Project Structure
+Tic-Tac-Toe/
+│
+├── index.html # HTML structure of the game
+├── style.css # CSS styling and responsiveness
+├── script.js # JavaScript game logic
+└── README.md # Project documentation
